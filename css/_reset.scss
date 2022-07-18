@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Poppins:wght@400;500&family=Roboto:wght@400;500&display=swap');
+
+/*  
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+
+    ul{
+        list-style: none;
+    }
+    a{
+        text-decoration: none;
+    }
+    img{
+        width: 100% !important;
+    }
+}
